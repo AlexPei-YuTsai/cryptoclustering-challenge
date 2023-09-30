@@ -54,7 +54,7 @@ To summarize what these clusters are, the yellow and red dots are one-dot cluste
 ## Resources that helped a lot
 We aren't coding any of the machine learning algorithms from scratch. There's no need to reinvent the wheel or rediscover calculus for the purposes of this exercise. However, it's still important to learn about how the algorithms work and when these can be applied. I found these theory videos to be very useful:
 - Josh Starmer's [KMeans](https://www.youtube.com/watch?v=4b5d3muPQmA) and [PCA](https://www.youtube.com/watch?v=FgakZw6K1QQ) explanations very easily demystify what the computer does in order to bucket similar things into groups and how we can let the computer bucket things more appropriately.
-- Cassie Kozyrkov's [Making Friends with Machine Learning] 6-hour course is also great for giving people a look into the black boxes that now govern our data-centric world.
+- Cassie Kozyrkov's [Making Friends with Machine Learning](https://www.youtube.com/watch?v=1vkb7BCMQd0) 6-hour course is also great for giving people a look into the black boxes that now govern our data-centric world.
 
 Most of the coding tricks can be found with Google and the official documentation for [SKLearn's Clustering functions](https://scikit-learn.org/stable/modules/clustering.html#clustering), so I didn't consult any tutorials. However, it's such a popular topic that Youtube will probably have at least a few decent resources to use.
 - One example is [this video](https://www.youtube.com/watch?v=EItlUEPCIzM) by codebasics
